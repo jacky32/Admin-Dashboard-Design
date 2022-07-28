@@ -1,5 +1,5 @@
 # Admin-Dashboard-Design
 
-Building an Admin dashboard:
+Built an Admin dashboard as part of the [TOP curriculum](https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard):
 
-- https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard
+- https://jacky32.github.io/Admin-Dashboard-Design/
